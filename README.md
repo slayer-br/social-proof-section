@@ -33,7 +33,7 @@ Usuários devem ser capazes de:
 ### 🔗 Links
 
 - 🔧 URL da solução: <a href="https://github.com/slayer-br/social-proof-section" target="_blank" rel="noopener noreferrer">Social Proof Section</a>  
-- 🌐 URL do site ao vivo: <a href="https://slayer-br.github.io/social-proof-section" target="_blank" rel="noopener noreferrer">Social Proof section</a>
+- 🌐 URL do site ao vivo: <a href="https://slayer-br.github.io/social-proof-section" target="_blank" rel="noopener noreferrer">Social Proof Section</a>
 
 ## 🛠️ Meu Processo
 
