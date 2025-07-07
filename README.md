@@ -26,7 +26,9 @@ Usuários devem ser capazes de:
 
 ### 📸 Screenshot
 
-![](./screenshot.jpg)
+| 📱 Versão Mobile | 💻 Versão Desktop |
+|------------------|-------------------|
+| ![Mobile](./assets/images/social-proof-section-mobile.gif) | ![Desktop](./assets/images/social-proof-section-desktop.gif) |
 
 ### 🔗 Links
 
